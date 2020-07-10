@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hey 👋
+
+Hello! I am a full stack web developer from Montreal, Québec.
+ 
+I work with various frameworks, such as React, Vue, Gatsby & more.
+
+I am interrested in building complex web apps with performance, accessibility and UX in mind.
+
+You can reach me on twitter at [@_marie_maxime](https://twitter.com/_marie_maxime)
 
 <!--
 **marie-maxime/marie-maxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
