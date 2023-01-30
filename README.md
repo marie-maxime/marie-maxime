@@ -2,7 +2,7 @@
 
 Hello! I am a full stack web developer from Montreal, Québec.
  
-I work with various frameworks, such as React, Vue, Gatsby & more.
+I work with various frameworks and libraries, such as React, Vue, Nextjs & more.
 
 I am interrested in building complex web apps with performance, accessibility and UX in mind.
 
